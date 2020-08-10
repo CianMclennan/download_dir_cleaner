@@ -1,0 +1,1 @@
+A script for deleting files in your downloads directory that are older than a week.
